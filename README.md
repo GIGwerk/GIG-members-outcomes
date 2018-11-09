@@ -13,5 +13,5 @@ Atlas of Innovation by [Ananse Group](https://github.com/AnanseGroup)
 - …
 
 ## Technology
-- [#ASKotec](https://github.com/opencultureagency/ASKotec)
+[#ASKotec](https://github.com/opencultureagency/ASKotec)
 - https://openculture.agency/outcomes/askotec/
