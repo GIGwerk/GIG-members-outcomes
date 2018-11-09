@@ -1,5 +1,4 @@
-# network-partner-outcomes
-Products and services from our network partners
+# Products and services from our network members
 
 
 ## Software
