@@ -16,5 +16,5 @@ innovative products and services from our network members
 - DEXT Science Set by DEXT Technologies | [website](http://www.dext.tech/)
 - [Open Learning Guide](https://github.com/opencultureagency/Open-Learning-Guide) by [r0g_agency](https://github.com/opencultureagency)
 - [Open Hardware Guide](https://github.com/opencultureagency/Open-Hardware-Guide) by [r0g_agency](https://github.com/opencultureagency)
-- [#defyhatenow Field Guide](https://github.com/opencultureagency/defyhatenow/tree/master/FieldGuide-master) by [r0g_agency](https://github.com/opencultureagency)
+- [#defyhatenow Field Guide](https://github.com/opencultureagency/defyhatenow/tree/master/FieldGuide-master) by [r0g_agency](https://github.com/opencultureagency) | [website](https://defyhatenow.net/field-guide/)
 
